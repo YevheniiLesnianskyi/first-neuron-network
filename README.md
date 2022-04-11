@@ -8,4 +8,4 @@ The following network structure is needed to solve this problem:
 
 -unipolar sigmoid activation function for each neuron (f),
 
--bias for each neuron (for better readability, the bias weights are marked with a different color).
+-bias for each neuron.
